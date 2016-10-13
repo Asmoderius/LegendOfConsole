@@ -1,0 +1,54 @@
+C@Gold coin@A shiny piece of gold@1@true
+C@Gem@Sparkling gem@5@true
+C@Diamond@A diamond@10@true
+C@Monster parts@Do you really want to know? it is red, wet and stinks@10@true
+C@Rock@Yup it is a rock! Rock on!@1@true
+P@Healing potion@Healing potion@10@10@0@0@0@false@0
+P@Big Healing potion@When you are in deep trouble!@100@25@0@0@0@false@0
+P@Damage bonus potion@Unleash your inner rage!@25@0@10@0@0@true@5
+P@Protection bonus potion@Maximum armor!@25@0@0@10@0@true@5
+P@Crit bonus potion@Boom! Headshot!@50@0@0@0@10@true@5
+P@Divine potion@Tastes like godly powers to me!@1000@10@10@10@10@true@2
+CE@A@Cloth helmet@Fluffy!@10@false@1@Head
+CE@A@Leather helmet@Leather helmet!@10@false@5@Head
+CE@A@Rusty plate helmet@A bit rusty@10@false@9@Head
+CE@A@Plate helmet@Heavy armor@10@false@12@Head
+RE@A@Runic plate helmet@Strongest armor around@10@false@15@Head
+CE@A@Linen shoulders@Fluffy!@10@false@1@Shoulders
+CE@A@Leather shoulders@Leather helmet!@10@false@5@Shoulders
+CE@A@Rusty plate shoulders@A bit rusty@10@false@9@Shoulders
+CE@A@Plate shoulders@Heavy armor@10@false@12@Shoulders
+RE@A@Runic plate shoulders@Strongest armor around@10@false@15@Shoulders
+CE@A@Dirty gloves@Is that dirt or blood?@10@false@1@Hands
+CE@A@Leather gloves@Leather helmet!@10@false@5@Hands
+CE@A@Rusty plate gauntlets@A bit rusty@10@false@9@Hands
+CE@A@Plate gauntlets@Heavy armor@10@false@12@Hands
+RE@A@Runic plate gauntlets@Strongest armor around@10@false@15@Hands
+CE@A@Cloth vest@At least it is warm@10@false@1@Chest
+CE@A@Leather armor@Leather helmet!@10@false@5@Chest
+CE@A@Rusty plate armor@A bit rusty@10@false@9@Chest
+CE@A@Plate armor@Heavy armor@10@false@12@Chest
+RE@A@Runic plate armor@Strongest armor around@10@false@15@Chest
+CE@A@Cloth pants@At least it is warm@10@false@1@Legs
+CE@A@Leather legs@Leather helmet!@10@false@5@Legs
+CE@A@Rusty plate legguards@A bit rusty@10@false@9@Legs
+CE@A@Plate legguards@Heavy armor@10@false@12@Legs
+RE@A@Runic plate legguards@Strongest armor around@10@false@15@Legs
+CE@A@Sandals@Not really that much protection!@10@false@1@Boots
+CE@A@Leather boots@Leather helmet!@10@false@5@Boots
+CE@A@Rusty plate sabatons@A bit rusty@10@false@9@Boots
+CE@A@Plate sabatons@Heavy armor@10@false@12@Boots
+RE@A@Runic plate sabatons@Strongest armor around@10@false@15@Boots
+CE@W@Dagger@It is pointy and sharp@10@2@8@1@false@0@false
+CE@W@Sword@Sharp!@50@8@12@2@false@0@false
+CE@W@Axe@Viking style!@75@9@13@2@false@0@false
+CE@W@Warhammer@An elegant styled warhammer@100@12@14@4@false@0@false
+CE@W@Twohanded sword@A sharp twohanded sword!@150@15@19@6@true@0@false
+CE@W@Twohanded hammer@Brutal!@150@16@20@6@true@0@false
+CE@W@Steam pistol@Tiny boomer!@200@14@21@6@false@0@false
+CE@W@Steam rifle@Boomstick!@300@20@24@7@false@0@false
+CE@W@Wooden shield@Knock knock?!@75@2@4@0@false@10@true
+CE@W@Heavy shield@Tank style!@100@2@4@0@false@15@true
+RE@W@SX-7000 Eliminator rifle@Elite steam rifle used by the City States during the 17th war.@1000@30@35@11@false@0@false
+RE@W@Golden Sword of Truth@Rumored to be the sword of a deity, who knows..@1000@29@33@11@false@0@false
+LE@W@The Unspoken@The blade twists and swirls with multiple faces of screaming demons.@2000@40@50@15@false@0@false
