@@ -12,3 +12,7 @@ The project quickly grew in scale, "Feature creep" anyone? <br>
 It works and demonstrates how to create a terminal old-school Rogue-Like RPG.
 <br>
 Feel free to fork it and continue development. 
+<br>
+<br>
+<b><i>Warning: The code is messy and requires some serious love and refactoring. I spent two-three days on this project</i></b>
+
